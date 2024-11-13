@@ -1,0 +1,15 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "Deskripsi proyek",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.21.1",
+        "idb": "^8.0.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Nama Anda",
+    "license": "ISC"
+}
